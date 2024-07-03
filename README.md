@@ -52,9 +52,6 @@ For more details, please refer to our publication:
 - **Journal**: International Journal for Research in Applied Science and Engineering Technology
 - **DOI**: [10.22214/ijraset.2024.63365](https://doi.org/10.22214/ijraset.2024.63365)
 
-## Contributing
-
-We welcome contributions to enhance the system's features and performance. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
 
